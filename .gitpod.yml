@@ -1,0 +1,4 @@
+vscode:
+  extensions:
+    - justusadam.language-haskell
+    - hoovercj.haskell-linter
